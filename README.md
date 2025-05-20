@@ -7,7 +7,9 @@ if you do modify the code please let me know any changes you have made so i can 
 install: 
 
 git clone https://github.com/imunknown2/maskURL.git 
+
 cd maskURL 
+
 bash urlltst1.sh  
 
 then simply follow instructions.
